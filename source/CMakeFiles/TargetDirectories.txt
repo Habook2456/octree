@@ -1,0 +1,3 @@
+/home/habook/EDA/octree/CMakeFiles/mi_programa.dir
+/home/habook/EDA/octree/CMakeFiles/edit_cache.dir
+/home/habook/EDA/octree/CMakeFiles/rebuild_cache.dir
